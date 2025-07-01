@@ -4,7 +4,7 @@ compatibility_date = "2023-12-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "honoapi-d1-database"
-database_id = "111-222-333"
+database_id = "7cc0551c-42e5-46d0-901a-f30593d81af1"
 migrations_table = "d1_migrations"
 migrations_dir = "src/db/migrations"
 
